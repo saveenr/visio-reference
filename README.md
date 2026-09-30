@@ -1,3 +1,9 @@
+> [!IMPORTANT]
+> **This repository has moved.**
+>
+> This content is now maintained in [saveenr/Visio-Resources](https://github.com/saveenr/Visio-Resources), under the [reference/](https://github.com/saveenr/Visio-Resources/tree/main/reference) directory.
+>
+> This repository is retained as an archive for historical links and history.
 # visio-reference
 
 > **Status:** *paused, reference data*. CY27 newer-Visio-version extension question tracked in [#1](https://github.com/saveenr/visio-reference/issues/1).
